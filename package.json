@@ -1,0 +1,22 @@
+{
+  "name": "laughing-parakeet",
+  "version": "1.0.0",
+  "description": "module10",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotdlew/laughing-parakeet.git"
+  },
+  "author": "daniel lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotdlew/laughing-parakeet/issues"
+  },
+  "homepage": "https://github.com/dotdlew/laughing-parakeet#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
