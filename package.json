@@ -1,28 +1,16 @@
 {
-  "name": "laughing-parakeet",
+  "name": "rpg",
   "version": "1.0.0",
-  "description": "module10",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dotdlew/laughing-parakeet.git"
-  },
-  "author": "daniel lewis",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dotdlew/laughing-parakeet/issues"
-  },
-  "homepage": "https://github.com/dotdlew/laughing-parakeet#readme",
-  "devDependencies": {
-    "jest": "^26.6.3"
-  },
-  "directories": {
-    "lib": "lib"
-  },
   "dependencies": {
-    "inquirer": "^8.0.0"
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
   }
 }
